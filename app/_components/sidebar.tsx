@@ -2,7 +2,7 @@
 
 import { LayoutGridIcon, PackageIcon, ShoppingBasketIcon } from "lucide-react";
 
-import SidebarButton from "./ui/sidebar-button";
+import SidebarButton from "./sidebar-button";
 
 
 const Sidebar = () => {

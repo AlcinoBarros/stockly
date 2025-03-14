@@ -1,9 +1,8 @@
-"use client"
+"use client";
 
-import { LayoutGridIcon } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Button } from "./button";
+import { Button } from "./ui/button";
 
 interface SidebarButtonProps{
     children: React.ReactNode;
