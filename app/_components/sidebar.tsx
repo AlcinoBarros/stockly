@@ -1,4 +1,4 @@
-"use client"
+
 
 import { LayoutGridIcon, PackageIcon, ShoppingBasketIcon } from "lucide-react";
 
